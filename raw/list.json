@@ -1,0 +1,3592 @@
+[
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1046694",
+                "infoId": "608304704495",
+                "loginId": "泊霖科技源头工厂",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "boiskin"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "广州市荔湾区",
+                "factoryName": "",
+                "name": "广州泊霖科技有限公司",
+                "province": "广东",
+                "shiliType": "supermall",
+                "shopRepurchaseRate": "43.6%"
+            },
+            "id": "608304704495",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "3色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 50,
+                        "integer": 8
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~20",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 8
+                            }
+                        },
+                        {
+                            "quantity": "21~100",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 8
+                            }
+                        },
+                        {
+                            "quantity": "≥101",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 7
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 7
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 2159,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://guangzhoubolin.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://guangzhoubolin.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 1
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_0_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','0','{clickArea}'",
+        "ctr": 286,
+        "discountPrice": {
+            "id": "608304704495",
+            "price": 7.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=5fPMiVHWheF5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.BzueFzoIEypGFu2paMiQETLTr8Oz8b3bEPqs.TWN0cB2QypBrMQVBZI4u-gS2pxrhuFfKLZsMPg-zTRRUR8kOS7X7hvAKLZr8StwpE3CW3sAnPPw82mJylJJE7Z7U1ZGcCaSZ5TA-VqQJh3lz4fSQJ8xE4AWpjjR1W4Ob7D7oUb8QBZWgsnDz33kTpScHPftJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7TatoVWCEdyjxfztfajOzCKrq64YbkA5.N5zhd21CNA2JFsAIl8MPLFzeY6lH02WoamnVJLFR5WQyiuZFvGD3Xigu44izZsjcbeku.Zmo0gIjzTNgzHnGlI0Wt-MkENkJnveAgZDfDAvtxikURztzvnCuvMS-la77T1V56qZNg2c7LPz9JpgXkXJ9wYeLDuwDtmd3RUvfTE8rOBKlio8sJpooNwHM9WRDM-fvZcq2qG3kiLj1gtnI1R7AfJ3mKwKqY_&v=4&ap=1&rp=1",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/563/210/12869012365_1734756387.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=5fPMiVHWheF5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.BzueFzoIEypGFu2paMiQETLTr8Oz8b3bEPqs.TWN0cB2QypBrMQVBZI4u-gS2pxrhuFfKLZsMPg-zTRRUR8kOS7X7hvAKLZr8StwpE3CW3sAnPPw82mJylJJE7Z7U1ZGcCaSZ5TA-VqQJh3lz4fSQJ8xE4AWpjjR1W4Ob7D7oUb8QBZWgsnDz33kTpScHPftJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7TatoVWCEdyjxfztfajOzCKrq64YbkA5.N5zhd21CNA2JFsAIl8MPLFzeY6lH02WoamnVJLFR5WQyiuZFvGD3Xigu44izZsjcbeku.Zmo0gIjzTNgzHnGlI0Wt-MkENkJnveAgZDfDAvtxikURztzvnCuvMS-la77T1V56qZNg2c7LPz9JpgXkXJ9wYeLDuwDtmd3RUvfTE8rOBKlio8sJpooNwHM9WRDM-fvZcq2qG3kiLj1gtnI1R7AfJ3mKwKqY_&v=4&ap=1&rp=1&action=feedback",
+        "isP4P": true,
+        "loginId": "泊霖科技源头工厂",
+        "memberId": "b2b-22030643521990ff53",
+        "memberTags": "15168,3839233,1415873,3674177,3767617,136128,3786881,205185,205057,3849601,134976,985345,39232",
+        "offerid": "608304704495",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 7.5,
+            "cent": 750,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 0,
+        "strPriceMoney": "7.50",
+        "tP": false,
+        "title": "新款适用于iphone11<font color=red>手机</font><font color=red>壳</font>车载磁吸指环支架多功能防摔苹果保护<font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1046694",
+                "infoId": "608458305315",
+                "loginId": "泊霖科技源头工厂",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "boiskin"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "广州市荔湾区",
+                "factoryName": "",
+                "name": "广州泊霖科技有限公司",
+                "province": "广东",
+                "shiliType": "supermall",
+                "shopRepurchaseRate": "43.6%"
+            },
+            "id": "608458305315",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "3色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 50,
+                        "integer": 8
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~20",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 8
+                            }
+                        },
+                        {
+                            "quantity": "21~100",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 8
+                            }
+                        },
+                        {
+                            "quantity": "≥101",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 7
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 7
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 3478,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://guangzhoubolin.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://guangzhoubolin.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 1
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_1_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','1','{clickArea}'",
+        "ctr": 286,
+        "discountPrice": {
+            "id": "608458305315",
+            "price": 7.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=PeV9qQ6mQtt5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.BzueFzoIEypGFu2paMiQETLTr8Oz8b3YWrRPGr-9MWx2QypBrMQVBZI4u-gS2pxp-JocEa.kTJA-zTRRUR8kOS7X7hvAKLZr8StwpE3CW3herEn7xemLBfx8BPSr5FTScCaSZ5TA-VqQJh3lz4fSQuzgXD3xRY0FuXqNN.qrOL78QBZWgsnDz33kTpScHPftJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7TAVQWa8J5lb2-C.DIybIW3rq64YbkA5.N5zhd21CNA2JFsAIl8MPLFzeY6lH02WoakZeBLztfsjIoTu.D26i0hgu44izZsjcbeku.Zmo0gIjzTNgzHnGlI0Wt-MkENkJnveAgZDfDAvtxikURztzvnCuvMS-la77T1V56qZNg2c7LPz9JpgXkXJ9wYeLDuwDtmd3RUvfTE8rOBKlio8sJpooNwHM9WRDM-fvZcq2qG3vTEoFgPUJS8OfON9XXbu4o_&v=4&ap=2&rp=2",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/673/663/12712366376_1734756387.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=PeV9qQ6mQtt5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.BzueFzoIEypGFu2paMiQETLTr8Oz8b3YWrRPGr-9MWx2QypBrMQVBZI4u-gS2pxp-JocEa.kTJA-zTRRUR8kOS7X7hvAKLZr8StwpE3CW3herEn7xemLBfx8BPSr5FTScCaSZ5TA-VqQJh3lz4fSQuzgXD3xRY0FuXqNN.qrOL78QBZWgsnDz33kTpScHPftJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7TAVQWa8J5lb2-C.DIybIW3rq64YbkA5.N5zhd21CNA2JFsAIl8MPLFzeY6lH02WoakZeBLztfsjIoTu.D26i0hgu44izZsjcbeku.Zmo0gIjzTNgzHnGlI0Wt-MkENkJnveAgZDfDAvtxikURztzvnCuvMS-la77T1V56qZNg2c7LPz9JpgXkXJ9wYeLDuwDtmd3RUvfTE8rOBKlio8sJpooNwHM9WRDM-fvZcq2qG3vTEoFgPUJS8OfON9XXbu4o_&v=4&ap=2&rp=2&action=feedback",
+        "isP4P": true,
+        "loginId": "泊霖科技源头工厂",
+        "memberId": "b2b-22030643521990ff53",
+        "memberTags": "15168,3839233,1415873,3674177,3767617,136128,3786881,205185,205057,3849601,134976,985345,39232",
+        "offerid": "608458305315",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 7.5,
+            "cent": 750,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 1,
+        "strPriceMoney": "7.50",
+        "tP": false,
+        "title": "新款适用iphone11<font color=red>手机</font><font color=red>壳</font>苹果11 pro max指环支架车载全包创意定制",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "608042911914",
+                "loginId": "ietp6",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "英惠"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市宝安区",
+                "factoryName": "深圳菜鸟皮具",
+                "name": "深圳菜鸟皮具制品有限公司",
+                "province": "广东",
+                "shiliType": "factory",
+                "shopRepurchaseRate": "45.8%"
+            },
+            "id": "608042911914",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "4色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 10
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "5~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 10
+                            }
+                        },
+                        {
+                            "quantity": "100~299",
+                            "value": {
+                                "decimals": 70,
+                                "integer": 9
+                            }
+                        },
+                        {
+                            "quantity": "≥300",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 9
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 9
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 0,
+                "quantityBegin": 5,
+                "sortType": "30days",
+                "sortTypeUnit": "件",
+                "unit": "件"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 48,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": true,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://shop1476700163087.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://shop1476700163087.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 4
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_2_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','2','{clickArea}'",
+        "ctr": 181,
+        "discountPrice": {
+            "id": "608042911914",
+            "price": 9.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=bf1Ma5I18iZ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9hZZGsXhufJMzRrn0SaU.nHaNIYKerKWJyGgF4O.08CTPWUhILep1R4rBWWIRYdrncUnrdzLvcRhKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AfOHqUkCTRU0wdTwUFO3cjNhd0Sidy3JL9kjLCjXY3XH96GD1lNEbgsHV0vMy9uQhMKoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01HY-EVr7CJBdQ0UfSzW9bFZBRNdQ3547omVlBvjs6ZlmgXeABBpD1EmRmRMpKabP401yBkSIIojA8ofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgzYpbsHC1QtVcTN84zBf.8T&v=4&ap=3&rp=3",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/279/128/12632821972_1845382056.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=bf1Ma5I18iZ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9hZZGsXhufJMzRrn0SaU.nHaNIYKerKWJyGgF4O.08CTPWUhILep1R4rBWWIRYdrncUnrdzLvcRhKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AfOHqUkCTRU0wdTwUFO3cjNhd0Sidy3JL9kjLCjXY3XH96GD1lNEbgsHV0vMy9uQhMKoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01HY-EVr7CJBdQ0UfSzW9bFZBRNdQ3547omVlBvjs6ZlmgXeABBpD1EmRmRMpKabP401yBkSIIojA8ofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgzYpbsHC1QtVcTN84zBf.8T&v=4&ap=3&rp=3&action=feedback",
+        "isP4P": true,
+        "loginId": "ietp6",
+        "memberId": "b2b-3014553032c9863",
+        "memberTags": "3438145,3679361,1415873,3767617,3713601,3708225,205185,3628097,3673089,102912,3706369,3839233,6272,3767041,3786881,2802049,3695873,134976,205057,2247553,3852033,1381249,103040,2812161,3677889,205313,3849601,5184,3863489,2999553",
+        "offerid": "608042911914",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 9.5,
+            "cent": 950,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 2,
+        "strPriceMoney": "9.50",
+        "tP": false,
+        "title": "OPPO Reno A<font color=red>手机</font><font color=red>壳</font>RenoA翻盖<font color=red>手机</font>保护套 插卡钱包疯马纹<font color=red>手机</font>皮套",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "599466440059",
+                "loginId": "广州塔下数码科技",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "塔下"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "广州市番禺区",
+                "factoryName": "",
+                "name": "广州塔下数码科技有限责任公司",
+                "province": "广东",
+                "shiliType": "flagship",
+                "shopRepurchaseRate": "10.1%"
+            },
+            "id": "599466440059",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "2色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 6,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=599466440059&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 90,
+                        "integer": 3
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 3
+                            }
+                        },
+                        {
+                            "quantity": "100~9999",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 3
+                            }
+                        },
+                        {
+                            "quantity": "≥10000",
+                            "value": {
+                                "decimals": 60,
+                                "integer": 2
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 60,
+                        "integer": 2
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1477,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "件",
+                "unit": "件"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://taxiashuma.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://taxiashuma.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 4
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_3_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','3','{clickArea}'",
+        "ctr": 1157,
+        "discountPrice": {
+            "id": "599466440059",
+            "price": 2.6,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=i.OALzzC7RF5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.sTy.WTyCEHgWW7AOuYgqURvqdVGoAVrS7sEzpWn2vIDPWUhILep1RY6hNdNVi26VQK7m0ZMstoRKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3Ab2ONmMl4yFn1o8uGLrN.tMSLHPDalEZLkyZP6UWn0U4t-7GD9r48EY7zV3nMuFdhEm08STMWOlWMlADCy3tpftgcV7Z3wFwbL16dQAUj8xoreHttMoHcVwaWWP839OlX278c9iHCdqRZQZwX97AXMcB5HFoYz3eEvXej.dD.UvfOx5S5B0Z14juhRyFoykf3XyynZgRc4I86AH9tz.PeR6StxUm4sTSXnqeOA5SuRdR3OeRNGIdi5HWXuVOMcaf1FC0erciYAheyFiSOTKf1SQzGmU.0qFPJlg.6Q22CUpxu.1G4yejOPHV40lu3-mWBc1PqZtbphaP1-TgfTHIKWi4lGQL0nsdzOpX7untt.TW37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPrv6RV6uTuVzjU7WeSShE6vl8pgKDRWAoSjz2gDMz8VS&v=4&ap=4&rp=4",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/062/818/11593818260_1333864056.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=i.OALzzC7RF5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.sTy.WTyCEHgWW7AOuYgqURvqdVGoAVrS7sEzpWn2vIDPWUhILep1RY6hNdNVi26VQK7m0ZMstoRKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3Ab2ONmMl4yFn1o8uGLrN.tMSLHPDalEZLkyZP6UWn0U4t-7GD9r48EY7zV3nMuFdhEm08STMWOlWMlADCy3tpftgcV7Z3wFwbL16dQAUj8xoreHttMoHcVwaWWP839OlX278c9iHCdqRZQZwX97AXMcB5HFoYz3eEvXej.dD.UvfOx5S5B0Z14juhRyFoykf3XyynZgRc4I86AH9tz.PeR6StxUm4sTSXnqeOA5SuRdR3OeRNGIdi5HWXuVOMcaf1FC0erciYAheyFiSOTKf1SQzGmU.0qFPJlg.6Q22CUpxu.1G4yejOPHV40lu3-mWBc1PqZtbphaP1-TgfTHIKWi4lGQL0nsdzOpX7untt.TW37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPrv6RV6uTuVzjU7WeSShE6vl8pgKDRWAoSjz2gDMz8VS&v=4&ap=4&rp=4&action=feedback",
+        "isP4P": true,
+        "loginId": "广州塔下数码科技",
+        "memberId": "b2b-288724252696949",
+        "memberTags": "675905,3767617,205185,205057,2247553,3852033,23488,504641,39232,2812161,15168,3839233,22912,3786881,2802049,205441,3849601,41792,134976,3863489",
+        "offerid": "599466440059",
+        "p4P": true,
+        "planType": 5,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 2.6,
+            "cent": 260,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 3,
+        "strPriceMoney": "2.60",
+        "tP": false,
+        "title": "卡通可爱Phone11<font color=red>手机</font><font color=red>壳</font>苹果Xs max硅胶7/8plus网红X/XR适用6s情侣",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "603120686578",
+                "loginId": "ietp6",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "英惠"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市宝安区",
+                "factoryName": "深圳菜鸟皮具",
+                "name": "深圳菜鸟皮具制品有限公司",
+                "province": "广东",
+                "shiliType": "factory",
+                "shopRepurchaseRate": "45.8%"
+            },
+            "id": "603120686578",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "4色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 29,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=603120686578&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 9
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "5~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 9
+                            }
+                        },
+                        {
+                            "quantity": "100~299",
+                            "value": {
+                                "decimals": 70,
+                                "integer": 8
+                            }
+                        },
+                        {
+                            "quantity": "≥300",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 8
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 8
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 132,
+                "quantityBegin": 5,
+                "sortType": "30days",
+                "sortTypeUnit": "件",
+                "unit": "件"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 48,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": true,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://shop1476700163087.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://shop1476700163087.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 4
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_4_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','4','{clickArea}'",
+        "ctr": 198,
+        "discountPrice": {
+            "id": "603120686578",
+            "price": 8.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=1J1hp5UW3sJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9hZZGsXhufJMzRrn0SaU.nmOxwPS1OGyQIGR4LoZXckTPWUhILep1RpZlCQE2UQhJbMB8MQOcQCRKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AaH9fv3.xksLY1CRFatWrm9hd0Sidy3JL9kjLCjXY3XHfgeoWQw48pSYWaEHRRbi3MKoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01Hpg-QEjfDOv-VIRPhE3S1fBRNdQ3547omVlBvjs6ZlmgXeABBpD1EmRmRMpKabP42uxwpcG29y-sofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgxSTwvBZDscfTamV1WBLVof&v=4&ap=5&rp=5",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/861/836/12043638168_1845382056.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=1J1hp5UW3sJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9hZZGsXhufJMzRrn0SaU.nmOxwPS1OGyQIGR4LoZXckTPWUhILep1RpZlCQE2UQhJbMB8MQOcQCRKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AaH9fv3.xksLY1CRFatWrm9hd0Sidy3JL9kjLCjXY3XHfgeoWQw48pSYWaEHRRbi3MKoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01Hpg-QEjfDOv-VIRPhE3S1fBRNdQ3547omVlBvjs6ZlmgXeABBpD1EmRmRMpKabP42uxwpcG29y-sofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgxSTwvBZDscfTamV1WBLVof&v=4&ap=5&rp=5&action=feedback",
+        "isP4P": true,
+        "loginId": "ietp6",
+        "memberId": "b2b-3014553032c9863",
+        "memberTags": "3438145,3679361,1415873,3767617,3713601,3708225,205185,3628097,3673089,102912,3706369,3839233,6272,3767041,3786881,2802049,3695873,134976,205057,2247553,1381249,103040,2812161,3677889,205313,3849601,5184,2999553",
+        "offerid": "603120686578",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 8.5,
+            "cent": 850,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 4,
+        "strPriceMoney": "8.50",
+        "tP": false,
+        "title": "适用苹果iPhone 11<font color=red>手机</font><font color=red>壳</font>11PRO保护套 疯马纹上下开MAX<font color=red>手机</font>皮套",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "580519106838",
+                "loginId": "cafele3",
+                "type": "normal"
+            },
+            "brand": {
+                "chineseName": "卡斐乐",
+                "enable": false,
+                "name": "Cafele/卡斐乐"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市宝安区",
+                "factoryName": "",
+                "name": "深圳市博睿奇贸易有限公司",
+                "province": "广东",
+                "shiliType": "agency",
+                "shopRepurchaseRate": "18.5%"
+            },
+            "id": "580519106838",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "6色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 2,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=580519106838&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 16
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 16
+                            }
+                        },
+                        {
+                            "quantity": "100~998",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 15
+                            }
+                        },
+                        {
+                            "quantity": "≥999",
+                            "value": {
+                                "decimals": 80,
+                                "integer": 12
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 80,
+                        "integer": 12
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 29,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://cafele3.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://cafele3.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 3
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_5_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','5','{clickArea}'",
+        "ctr": 335,
+        "discountPrice": {
+            "id": "580519106838",
+            "price": 12.8,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=DHHXsOHQKyJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.oN3YGIXIQGLQZetOiPjZZlH5SOh8frjHWbkioy5NueTPWUhILep1R77MdcVavCX43BFfZVYqipBKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AS5QTIq5nlQCtzflCYGK8u-aFPsXjhls.Qj2iE1jEpY9tCQkwS4B4YW1cILQiTAnf8KoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01EM64tglUtaOirSkTg7pkOZ8xs7Udgnk-0ztgG6DXF2lwXeABBpD1EmVCw06or-nEP9fh0VSn2Z08ofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgxD0QkhT5leSSrDyyQuEhFL&v=4&ap=6&rp=6",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/254/969/11959969452_991842998.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=DHHXsOHQKyJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.oN3YGIXIQGLQZetOiPjZZlH5SOh8frjHWbkioy5NueTPWUhILep1R77MdcVavCX43BFfZVYqipBKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AS5QTIq5nlQCtzflCYGK8u-aFPsXjhls.Qj2iE1jEpY9tCQkwS4B4YW1cILQiTAnf8KoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01EM64tglUtaOirSkTg7pkOZ8xs7Udgnk-0ztgG6DXF2lwXeABBpD1EmVCw06or-nEP9fh0VSn2Z08ofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgxD0QkhT5leSSrDyyQuEhFL&v=4&ap=6&rp=6&action=feedback",
+        "isP4P": true,
+        "loginId": "cafele3",
+        "memberId": "b2b-335583864789691",
+        "memberTags": "3438145,1415873,3767617,205185,3628097,23488,102912,406401,504641,3839233,6272,3786881,2802049,17665,39937,3695873,134976,676161,675905,3674177,46849,205057,2247553,3852033,2812161,15168,22912,205569,3849601,41792,10240,515841,2999553,1100580864",
+        "offerid": "580519106838",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 0.0,
+            "cent": 0,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 5,
+        "strPriceMoney": "价格面议",
+        "tP": false,
+        "title": "iPhoneXS<font color=red>手机</font><font color=red>壳</font>适用苹果XSmax保护套XR透明电镀硅胶软<font color=red>壳</font>全包防摔",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1753",
+                "infoId": "606443353926",
+                "loginId": "ywcaoyahui",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "义乌市",
+                "factoryName": "",
+                "name": "义乌市曹辉饰品有限公司",
+                "province": "浙江",
+                "shiliType": "",
+                "shopRepurchaseRate": "41.9%"
+            },
+            "id": "606443353926",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "义乌",
+                "url": "http://yiwu.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "2色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": true
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 18,
+                        "integer": 0
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 18,
+                                "integer": 0
+                            }
+                        },
+                        {
+                            "quantity": "100~199",
+                            "value": {
+                                "decimals": 17,
+                                "integer": 0
+                            }
+                        },
+                        {
+                            "quantity": "≥200",
+                            "value": {
+                                "decimals": 15,
+                                "integer": 0
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 15,
+                        "integer": 0
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 5890,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://ywaiqika.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 8
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_6_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','6','{clickArea}'",
+        "ctr": 244,
+        "discountPrice": {
+            "id": "606443353926",
+            "price": 0.15,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=EM-oGFoG7Id5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.RSDj7LQRjWKx-9H-vHDXgCLXoW8CnWLvl4XqqCt358TQS9MfX7GuaKh4o8H9K4HOf9m.eYkgoBuziYh0Kqosw6GlAYyj9qmjgjsw8.qJvvAuUytKsaNs0AEUwRLj-KfweH9Y.-0iNiIRWU05HyTr2rCrdD0N0dTejwaZUiYkGCnrfJmqcIx83FBW0jRBRpNizwLIvwK6Id1i3kiKXn01T2fegTDFa2ytZ6fwnbQbxL9SRPPQvzm4U8QFtBQfD1FjHb1l7xJfb.Q9Ev51jOpzjtKSBdW8aWBzeAtcFjIP73JdMNMW1WEn67lvMUMaiMls-U0Kuo6Qt.LD6CPHQZrVSPv45aIDXFyuca.smtCiE-3K9N8cUmRIlnbW.hWRU-Rx8Qrg8UsEYYdFMTqS0CbDcTlsrNOIh6xlZHDPqZjLOhAxJjfD58u26QGSqC1XoC50-NHITAR5J.CVTG6m2tYjnVBam3W9ygV0qLZTjxcjovHj19AnEGRnzaAy5uJZVzvtJnhIh5VBZZhjsvRncfJGXpS5eOOST474arhZoyOJpSBv382Bj4Hv3YwJD10NCzxl782..vUHsbdhD-15pYW-nRqHn8E1sUtdhEoUziGtXAeVi0.BYY3Vjg__&v=4&ap=7&rp=7",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/114/425/12409524411_1578603745.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=EM-oGFoG7Id5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.RSDj7LQRjWKx-9H-vHDXgCLXoW8CnWLvl4XqqCt358TQS9MfX7GuaKh4o8H9K4HOf9m.eYkgoBuziYh0Kqosw6GlAYyj9qmjgjsw8.qJvvAuUytKsaNs0AEUwRLj-KfweH9Y.-0iNiIRWU05HyTr2rCrdD0N0dTejwaZUiYkGCnrfJmqcIx83FBW0jRBRpNizwLIvwK6Id1i3kiKXn01T2fegTDFa2ytZ6fwnbQbxL9SRPPQvzm4U8QFtBQfD1FjHb1l7xJfb.Q9Ev51jOpzjtKSBdW8aWBzeAtcFjIP73JdMNMW1WEn67lvMUMaiMls-U0Kuo6Qt.LD6CPHQZrVSPv45aIDXFyuca.smtCiE-3K9N8cUmRIlnbW.hWRU-Rx8Qrg8UsEYYdFMTqS0CbDcTlsrNOIh6xlZHDPqZjLOhAxJjfD58u26QGSqC1XoC50-NHITAR5J.CVTG6m2tYjnVBam3W9ygV0qLZTjxcjovHj19AnEGRnzaAy5uJZVzvtJnhIh5VBZZhjsvRncfJGXpS5eOOST474arhZoyOJpSBv382Bj4Hv3YwJD10NCzxl782..vUHsbdhD-15pYW-nRqHn8E1sUtdhEoUziGtXAeVi0.BYY3Vjg__&v=4&ap=7&rp=7&action=feedback",
+        "isP4P": true,
+        "loginId": "ywcaoyahui",
+        "memberId": "ywcaoyahui",
+        "memberTags": "1100460160,90113,3438145,85633,26497,3679361,1415873,3767617,42496,1100275264,23488,102912,985345,86145,85249,84353,51073,3786881,45440,17665,25601,66177,32640,64128,26369,40705,84609,31424,25217,2247553,23425,42368,88065,3852033,1100249728,84481,33281,1100441536,1100249664,38016,3677889,47040,85889,2999553,84993,3863489",
+        "offerid": "606443353926",
+        "p4P": true,
+        "planType": 10,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 0.15,
+            "cent": 15,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 6,
+        "strPriceMoney": "0.15",
+        "tP": false,
+        "title": "个性仿真食玩diy胸针饰品配件 <font color=red>手机</font><font color=red>壳</font>美容材料 迷你方便面 泡面",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "601960191555",
+                "loginId": "cafele3",
+                "type": "normal"
+            },
+            "brand": {
+                "chineseName": "卡斐乐",
+                "enable": false,
+                "name": "cafele/卡斐乐"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市宝安区",
+                "factoryName": "",
+                "name": "深圳市博睿奇贸易有限公司",
+                "province": "广东",
+                "shiliType": "agency",
+                "shopRepurchaseRate": "18.5%"
+            },
+            "id": "601960191555",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 12,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=601960191555&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 90,
+                        "integer": 16
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~299",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 16
+                            }
+                        },
+                        {
+                            "quantity": "300~99998",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 15
+                            }
+                        },
+                        {
+                            "quantity": "≥99999",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 13
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 90,
+                        "integer": 13
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1105,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://cafele3.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://cafele3.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 3
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_7_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','7','{clickArea}'",
+        "ctr": 340,
+        "discountPrice": {
+            "id": "601960191555",
+            "price": 13.9,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=0sCNfFL.qyV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.oN3YGIXIQGLQZetOiPjZZWW9r5SBTkFOndTQlP1qahDPWUhILep1R77MdcVavCX6zbUygsyUM.BKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AdW5yCKkY.yaIWPOuQO59CiaFPsXjhls.Qj2iE1jEpY9Gb0NvcWq3-rCCDKw1cExh8KoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01HZ5llE3emwF4uriuy5OSxd8xs7Udgnk-0ztgG6DXF2lwXeABBpD1EmVCw06or-nEN8H-v5ovwuXMofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgx57GZQNki20bmR79B26zrb&v=4&ap=8&rp=8",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/862/398/12437893268_991842998.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=0sCNfFL.qyV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.oN3YGIXIQGLQZetOiPjZZWW9r5SBTkFOndTQlP1qahDPWUhILep1R77MdcVavCX6zbUygsyUM.BKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AdW5yCKkY.yaIWPOuQO59CiaFPsXjhls.Qj2iE1jEpY9Gb0NvcWq3-rCCDKw1cExh8KoI1LXJtnvHGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01HZ5llE3emwF4uriuy5OSxd8xs7Udgnk-0ztgG6DXF2lwXeABBpD1EmVCw06or-nEN8H-v5ovwuXMofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9xsnylk5sN7sgpxCsn2chgx57GZQNki20bmR79B26zrb&v=4&ap=8&rp=8&action=feedback",
+        "isP4P": true,
+        "loginId": "cafele3",
+        "memberId": "b2b-335583864789691",
+        "memberTags": "3438145,1415873,3767617,205185,3628097,23488,102912,406401,504641,3839233,6272,3786881,2802049,17665,39937,3695873,134976,676161,675905,3674177,46849,205057,2247553,3852033,2812161,15168,22912,205569,3849601,41792,10240,515841,2999553,3863489,1100580864",
+        "offerid": "601960191555",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 13.9,
+            "cent": 1390,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 7,
+        "strPriceMoney": "13.90",
+        "tP": false,
+        "title": "iphone11<font color=red>手机</font><font color=red>壳</font>苹果11透明钢化玻璃<font color=red>壳</font>软边防摔适用新款苹果<font color=red>手机</font><font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "605813364391",
+                "loginId": "深圳市喜帝科技有限公司",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "喜帝"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市龙岗区",
+                "factoryName": "",
+                "name": "深圳市喜帝科技有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "19.8%"
+            },
+            "id": "605813364391",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 90,
+                        "integer": 0
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "≥2",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 0
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 90,
+                        "integer": 0
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 23663,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 48,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://shop570o1jo062734.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 1
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_8_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','8','{clickArea}'",
+        "ctr": 349,
+        "discountPrice": {
+            "id": "605813364391",
+            "price": 0.9,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=kPouCFCyFRJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq-tJr7hVF9ltMz448Z4XWyJPkhpQxp0bNri67pfJEMOQB2QypBrMQVBZI4u-gS2pxoJPctQL3.fu8fLKMveyLkaqRvztH0Ll5yocnY4IUt6qftOk1Jy0Quk68KmuSrWkLv53XZiZWUiiqHjbFL27Wx-bQ-tu1jpHEVD3nnC0XX-qYcLCGPC5nXNpyKlhdudKuFH8BK.TBnGuR5zUavml-qYc89sXggdPtpd2HL4SjJxcIWDZE5K9GO4apUIC55sOfN.X3K9Fx2nqFxK7Uqx-gZXX1IZTyPYgfKJYV4yh8jQCaK-Tv2zN35YmpsywcFWCbrRb3YjXaeWwulFdcE0T-Oc0QDuo5mbETGVLmhCMnRBLdqUdH6gMWJN2iVooRaHrD-N0hRXaXvNGSUSgQEpYwEdEmqe1UYs9Hy52ARS0OoOcwTNNm5Ns2rsbuiApHhNRKywxvrbEfNrqV7qGx95BmFdZOXlpmOvLgICAihibTwh5qmKGCXZpwfmY725hqUIGkfU.6srYVsfLgdz2FB-TbpLpGnAJ42sK-dbzY7GvlYHiDU4qRTBnQUGc29Pq-selqKDJz6Vfl8gp5yFPbp1l7ymwot7e2pSL8QUHr5llCC0NFeNUep5zLbdA.bc-qh1TN5FFUjSX9vPFSP.3H00xNyHABogJh62g.yig3Acz1ZEMz5-9lyraobeNi8utV77mK8N59HVka.OxQ__&v=4&ap=9&rp=9",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/968/484/12538484869_365005402.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=kPouCFCyFRJ5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq-tJr7hVF9ltMz448Z4XWyJPkhpQxp0bNri67pfJEMOQB2QypBrMQVBZI4u-gS2pxoJPctQL3.fu8fLKMveyLkaqRvztH0Ll5yocnY4IUt6qftOk1Jy0Quk68KmuSrWkLv53XZiZWUiiqHjbFL27Wx-bQ-tu1jpHEVD3nnC0XX-qYcLCGPC5nXNpyKlhdudKuFH8BK.TBnGuR5zUavml-qYc89sXggdPtpd2HL4SjJxcIWDZE5K9GO4apUIC55sOfN.X3K9Fx2nqFxK7Uqx-gZXX1IZTyPYgfKJYV4yh8jQCaK-Tv2zN35YmpsywcFWCbrRb3YjXaeWwulFdcE0T-Oc0QDuo5mbETGVLmhCMnRBLdqUdH6gMWJN2iVooRaHrD-N0hRXaXvNGSUSgQEpYwEdEmqe1UYs9Hy52ARS0OoOcwTNNm5Ns2rsbuiApHhNRKywxvrbEfNrqV7qGx95BmFdZOXlpmOvLgICAihibTwh5qmKGCXZpwfmY725hqUIGkfU.6srYVsfLgdz2FB-TbpLpGnAJ42sK-dbzY7GvlYHiDU4qRTBnQUGc29Pq-selqKDJz6Vfl8gp5yFPbp1l7ymwot7e2pSL8QUHr5llCC0NFeNUep5zLbdA.bc-qh1TN5FFUjSX9vPFSP.3H00xNyHABogJh62g.yig3Acz1ZEMz5-9lyraobeNi8utV77mK8N59HVka.OxQ__&v=4&ap=9&rp=9&action=feedback",
+        "isP4P": true,
+        "loginId": "深圳市喜帝科技有限公司",
+        "memberId": "b2b-220650640209614538",
+        "memberTags": "3839233,3674177,3818177,3849601,3863489,3790337",
+        "offerid": "605813364391",
+        "p4P": true,
+        "planType": 10,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 0.9,
+            "cent": 90,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 8,
+        "strPriceMoney": "0.90",
+        "tP": false,
+        "title": "来图定制任意机型<font color=red>手机</font><font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "546617386217",
+                "loginId": "xulongsheng8",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "SAMSUODA"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市福田区",
+                "factoryName": "深圳尚硕达科技",
+                "name": "深圳市尚硕达科技有限公司",
+                "province": "广东",
+                "shiliType": "factory",
+                "shopRepurchaseRate": "20.5%"
+            },
+            "id": "546617386217",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "4色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": true,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 8,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=546617386217&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=546617386217&tab=similarDesign&showStyle=shopwindow#topoffer"
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 50,
+                        "integer": 6
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 6
+                            }
+                        },
+                        {
+                            "quantity": "100~499",
+                            "value": {
+                                "decimals": 30,
+                                "integer": 6
+                            }
+                        },
+                        {
+                            "quantity": "≥500",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 6
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 6
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1502,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 48,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://xulongsheng8.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://xulongsheng8.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 11
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_9_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','9','{clickArea}'",
+        "ctr": 324,
+        "discountPrice": {
+            "id": "546617386217",
+            "price": 6.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=3kFg9EyB1HN5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.ZkgTewmvTC-NDBNvHix1E1ek3W-olnkk-glSa7AUidq5.Lr5lI4EVdXYhuxFeUeCvr6CvnW2JciB40Sq77d-lwCE5DAHtXFKPviFzyG7vYez8CAh41wtR9vrKe8-iOwliN88D4SC9QNlyRUPxalermJyEWeOgyHTH5EFNJTMhutES1SGg9qqiqmsl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0dgrcOGcLJvhp.p2hOuXlaLH2ML.34E4zIG5wH1uXrwp0BuvdcCQpRc4mcFox940p8.Xq.LJwAqztQgEn0WBmcTvM1STebbugD4weoIFoKkwr07BuBqjlbTTco1GXty-Vg.Mwd8z1cjc-OA80jO4-hd.lCPZkUZ8xHmZmsZf71-EP-aCNsk4zvV8XXZYQB4m-kcCH78Gg2n8hSN-7.bMyv03fn17ZcBSykxm9Ht4vHi4Znzbv38UZ4A__&v=4&ap=10&rp=10",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/241/561/12021165142_1241735384.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=3kFg9EyB1HN5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.ZkgTewmvTC-NDBNvHix1E1ek3W-olnkk-glSa7AUidq5.Lr5lI4EVdXYhuxFeUeCvr6CvnW2JciB40Sq77d-lwCE5DAHtXFKPviFzyG7vYez8CAh41wtR9vrKe8-iOwliN88D4SC9QNlyRUPxalermJyEWeOgyHTH5EFNJTMhutES1SGg9qqiqmsl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0dgrcOGcLJvhp.p2hOuXlaLH2ML.34E4zIG5wH1uXrwp0BuvdcCQpRc4mcFox940p8.Xq.LJwAqztQgEn0WBmcTvM1STebbugD4weoIFoKkwr07BuBqjlbTTco1GXty-Vg.Mwd8z1cjc-OA80jO4-hd.lCPZkUZ8xHmZmsZf71-EP-aCNsk4zvV8XXZYQB4m-kcCH78Gg2n8hSN-7.bMyv03fn17ZcBSykxm9Ht4vHi4Znzbv38UZ4A__&v=4&ap=10&rp=10&action=feedback",
+        "isP4P": true,
+        "loginId": "xulongsheng8",
+        "memberId": "xulongsheng8",
+        "memberTags": "3767617,3818177,205185,37633,1801985,3839233,546049,3786881,24704,17665,5377,39937,1445889,134976,3790337,3674177,26369,548289,46849,205057,3852033,38401,39232,2049,33281,1582657,1445761,205313,3849601,515841",
+        "offerid": "546617386217",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 6.0,
+            "cent": 600,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 9,
+        "strPriceMoney": "6.00",
+        "tP": false,
+        "title": "适用iphone11pro max<font color=red>手机</font><font color=red>壳</font>碳纤维拉丝TPU全包软<font color=red>壳</font>苹果<font color=red>手机</font>保护套",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1045794",
+                "infoId": "541045053370",
+                "loginId": "优威图像1688",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "东莞市",
+                "factoryName": "",
+                "name": "东莞市优威图像有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "0%"
+            },
+            "id": "541045053370",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=541045053370&tab=similarDesign&showStyle=shopwindow#topoffer"
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 2
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "5000~9999",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 2
+                            }
+                        },
+                        {
+                            "quantity": "≥10000",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 1
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 1
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 0,
+                "quantityBegin": 5000,
+                "sortType": "30days",
+                "sortTypeUnit": "套",
+                "unit": "套"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": false,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://uv1688dg.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 5
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_10_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','10','{clickArea}'",
+        "ctr": 322,
+        "discountPrice": {
+            "id": "541045053370",
+            "price": 1.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=klHY9UyQqDp5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq90kF0CQoLfTArRBV.Xtb1k-nuzIKgA6.eoqIBSgMlLaNBL0x9fsa5oxrRST9vO-BeMdTEcMVQJU87SKOCKo7585qvgqnO6sGcOsNgVSCkH09c21DTXTeZo3v.-cI5hyMcK7CsuqBxDGd94RlNUPfp7jsbGTsMj3wm5GWVzuSYClmJyEWeOgyHTH5EFNJTMhutf1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0uT-4eH59t2CqUBbh.2Mc4yHjxoS5n8IbXX4zaE.cUmd0BuvdcCQpRS2uTx-88BtUNSldGJl7bNLtQgEn0WBmcTvM1STebbugSgZsUCy8Jw.xgNOKhazIyOk-brAiLPYq37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPkj2vPDO63cajU7WeSShE6uq-xMr4xM-PWYDn.HtTo4k&v=4&ap=11&rp=11",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2016/885/483/3596384588_4379911.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=klHY9UyQqDp5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq90kF0CQoLfTArRBV.Xtb1k-nuzIKgA6.eoqIBSgMlLaNBL0x9fsa5oxrRST9vO-BeMdTEcMVQJU87SKOCKo7585qvgqnO6sGcOsNgVSCkH09c21DTXTeZo3v.-cI5hyMcK7CsuqBxDGd94RlNUPfp7jsbGTsMj3wm5GWVzuSYClmJyEWeOgyHTH5EFNJTMhutf1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0uT-4eH59t2CqUBbh.2Mc4yHjxoS5n8IbXX4zaE.cUmd0BuvdcCQpRS2uTx-88BtUNSldGJl7bNLtQgEn0WBmcTvM1STebbugSgZsUCy8Jw.xgNOKhazIyOk-brAiLPYq37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPkj2vPDO63cajU7WeSShE6uq-xMr4xM-PWYDn.HtTo4k&v=4&ap=11&rp=11&action=feedback",
+        "isP4P": true,
+        "loginId": "优威图像1688",
+        "memberId": "b2b-2556584963hvsjb",
+        "memberTags": "36609,80897,17665,23424,39937",
+        "offerid": "541045053370",
+        "p4P": true,
+        "planType": 9,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 1.0,
+            "cent": 100,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 10,
+        "strPriceMoney": "1.00",
+        "tP": false,
+        "title": "高清图案印刷 PVC<font color=red>手机</font><font color=red>壳</font>6S外<font color=red>壳</font>个性打印定制加工",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "569081460262",
+                "loginId": "xulongsheng8",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "SAMSUODA"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市福田区",
+                "factoryName": "深圳尚硕达科技",
+                "name": "深圳市尚硕达科技有限公司",
+                "province": "广东",
+                "shiliType": "factory",
+                "shopRepurchaseRate": "20.5%"
+            },
+            "id": "569081460262",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "6色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 11,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=569081460262&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=569081460262&tab=similarDesign&showStyle=shopwindow#topoffer"
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 10
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 10
+                            }
+                        },
+                        {
+                            "quantity": "100~1999",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 9
+                            }
+                        },
+                        {
+                            "quantity": "≥2000",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 9
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 9
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 2941,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://xulongsheng8.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://xulongsheng8.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 11
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_11_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','11','{clickArea}'",
+        "ctr": 326,
+        "discountPrice": {
+            "id": "569081460262",
+            "price": 9.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=8K1VapmdtyB5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.ZkgTewmvTC-NDBNvHix1E7-kME4MXlfSFngNva9Ofbu5.Lr5lI4EVYwYrsRHZLSVxu1HPTDUV0OB40Sq77d-lwCE5DAHtXFKPviFzyG7vYfMM3d5LoQPhXoxJWSeD7ntiN88D4SC9QNlyRUPxalerkQLvNK-9t2LH2rtjzvxMe9f1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R01gLJOvYXh9gi4TnCeY0xk7H2ML.34E4zIG5wH1uXrwp0BuvdcCQpRc4mcFox940pvv.s7YA3.FztQgEn0WBmcTvM1STebbugD4weoIFoKkwr07BuBqjlbTTco1GXty-Vg.Mwd8z1cjc-OA80jO4-hd.lCPZkUZ8xHmZmsZf71-EP-aCNsk4zvV8XXZYQB4m-kcCH78Gg2n8hSN-7.bMyv03fn17ZcBSyeEEFp6C0RgzKX3-zUKdnSA__&v=4&ap=12&rp=12",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/119/720/11931027911_1241735384.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=8K1VapmdtyB5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.ZkgTewmvTC-NDBNvHix1E7-kME4MXlfSFngNva9Ofbu5.Lr5lI4EVYwYrsRHZLSVxu1HPTDUV0OB40Sq77d-lwCE5DAHtXFKPviFzyG7vYfMM3d5LoQPhXoxJWSeD7ntiN88D4SC9QNlyRUPxalerkQLvNK-9t2LH2rtjzvxMe9f1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R01gLJOvYXh9gi4TnCeY0xk7H2ML.34E4zIG5wH1uXrwp0BuvdcCQpRc4mcFox940pvv.s7YA3.FztQgEn0WBmcTvM1STebbugD4weoIFoKkwr07BuBqjlbTTco1GXty-Vg.Mwd8z1cjc-OA80jO4-hd.lCPZkUZ8xHmZmsZf71-EP-aCNsk4zvV8XXZYQB4m-kcCH78Gg2n8hSN-7.bMyv03fn17ZcBSyeEEFp6C0RgzKX3-zUKdnSA__&v=4&ap=12&rp=12&action=feedback",
+        "isP4P": true,
+        "loginId": "xulongsheng8",
+        "memberId": "xulongsheng8",
+        "memberTags": "3767617,3818177,205185,37633,1801985,3839233,546049,3786881,24704,17665,5377,39937,1445889,134976,3790337,3674177,26369,548289,46849,205057,38401,39232,2049,33281,1582657,1445761,205313,3849601,515841",
+        "offerid": "569081460262",
+        "p4P": true,
+        "planType": 8,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 9.0,
+            "cent": 900,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 11,
+        "strPriceMoney": "9.00",
+        "tP": false,
+        "title": "适用于华为mate30<font color=red>手机</font><font color=red>壳</font>软胶磁吸指环P30<font color=red>手机</font>套tpu防摔<font color=red>壳</font>P20外<font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "600205658185",
+                "loginId": "广州塔下数码科技",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "塔下"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "广州市番禺区",
+                "factoryName": "",
+                "name": "广州塔下数码科技有限责任公司",
+                "province": "广东",
+                "shiliType": "flagship",
+                "shopRepurchaseRate": "10.1%"
+            },
+            "id": "600205658185",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 4,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=600205658185&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 90,
+                        "integer": 3
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~99",
+                            "value": {
+                                "decimals": 90,
+                                "integer": 3
+                            }
+                        },
+                        {
+                            "quantity": "100~9999",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 3
+                            }
+                        },
+                        {
+                            "quantity": "≥10000",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 2
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 2
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1149,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "件",
+                "unit": "件"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://taxiashuma.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://taxiashuma.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 4
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_12_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','12','{clickArea}'",
+        "ctr": 955,
+        "discountPrice": {
+            "id": "600205658185",
+            "price": 2.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=OOweQ.GReDx5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.sTy.WTyCEHgWW7AOuYgqUdBxv7dErTiB--rl5KuUzkzPWUhILep1RY6hNdNVi26X2Td4Cdi.uahKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AcZrramCuogRq2ieQZX24JESLHPDalEZLkyZP6UWn0U4jtXa1W4xN3Rq8y58TugOHEm08STMWOlWMlADCy3tpftgcV7Z3wFwbL16dQAUj8xoreHttMoHcVwaWWP839OlX278c9iHCdqRZQZwX97AXMcB5HFoYz3eEvXej.dD.UvfOx5S5B0Z14juhRyFoykf3XyynZgRc4I86AH9tz.PeR6StxUm4sTSXnqeOA5SuRdR3OeRNGIdi5G-2wv5kobvDQFYN7ssnPoSyFiSOTKf1SQzGmU.0qFPJlg.6Q22CUpxu.1G4yejOPGzq7llEThAss1PqZtbphaP1-TgfTHIKWi4lGQL0nsdzOpX7untt.TW37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPrv6RV6uTuVzjU7WeSShE6uUevyLvRddqB6JLqN4epod&v=4&ap=13&rp=13",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/588/639/11693936885_1333864056.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=OOweQ.GReDx5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.sTy.WTyCEHgWW7AOuYgqUdBxv7dErTiB--rl5KuUzkzPWUhILep1RY6hNdNVi26X2Td4Cdi.uahKcZcpvkOf0rLhVXJj0tekNQ6SCdWz3AcZrramCuogRq2ieQZX24JESLHPDalEZLkyZP6UWn0U4jtXa1W4xN3Rq8y58TugOHEm08STMWOlWMlADCy3tpftgcV7Z3wFwbL16dQAUj8xoreHttMoHcVwaWWP839OlX278c9iHCdqRZQZwX97AXMcB5HFoYz3eEvXej.dD.UvfOx5S5B0Z14juhRyFoykf3XyynZgRc4I86AH9tz.PeR6StxUm4sTSXnqeOA5SuRdR3OeRNGIdi5G-2wv5kobvDQFYN7ssnPoSyFiSOTKf1SQzGmU.0qFPJlg.6Q22CUpxu.1G4yejOPGzq7llEThAss1PqZtbphaP1-TgfTHIKWi4lGQL0nsdzOpX7untt.TW37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPrv6RV6uTuVzjU7WeSShE6uUevyLvRddqB6JLqN4epod&v=4&ap=13&rp=13&action=feedback",
+        "isP4P": true,
+        "loginId": "广州塔下数码科技",
+        "memberId": "b2b-288724252696949",
+        "memberTags": "675905,3767617,205185,205057,2247553,3852033,23488,504641,39232,2812161,15168,3839233,22912,3786881,2802049,205441,3849601,41792,134976,3863489",
+        "offerid": "600205658185",
+        "p4P": true,
+        "planType": 5,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 2.5,
+            "cent": 250,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 12,
+        "strPriceMoney": "2.50",
+        "tP": false,
+        "title": "韩国ins白狗iPhoneXs max<font color=red>手机</font><font color=red>壳</font>软苹果11适用X/XR可爱6s女7/8Plus",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "542728623597",
+                "loginId": "深圳市科代尔科技有限公司",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "HENYOU"
+            },
+            "company": {
+                "bizTypeName": "经销批发",
+                "city": "深圳市龙岗区",
+                "factoryName": "",
+                "name": "深圳市科代尔科技有限公司",
+                "province": "广东",
+                "shiliType": "flagship",
+                "shopRepurchaseRate": "13.5%"
+            },
+            "id": "542728623597",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": true,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 7,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=542728623597&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=542728623597&tab=similarDesign&showStyle=shopwindow#topoffer"
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 79,
+                        "integer": 1
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "5~199",
+                            "value": {
+                                "decimals": 79,
+                                "integer": 1
+                            }
+                        },
+                        {
+                            "quantity": "200~499",
+                            "value": {
+                                "decimals": 69,
+                                "integer": 1
+                            }
+                        },
+                        {
+                            "quantity": "≥500",
+                            "value": {
+                                "decimals": 59,
+                                "integer": 1
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 59,
+                        "integer": 1
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 52186,
+                "quantityBegin": 5,
+                "sortType": "30days",
+                "sortTypeUnit": "个（袋装）",
+                "unit": "个（袋装）"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://szkodel.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://szkodel.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 7
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_13_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','13','{clickArea}'",
+        "ctr": 350,
+        "discountPrice": {
+            "id": "542728623597",
+            "price": 1.59,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=1kp3siCsqsV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9fmoU4IIILFx265pI7E6wJlnl8cR-bnoKil8FMxIP2GPfyijgugDa5TDiyPDZXjvpPcAaT1xa63vCl24uMAE-WWbCKKeQwUFA1s9cGg9cJqPnnXJMMxGqFvo56gTh94PWcCaSZ5TA-VpL0WpHTJbRfi1Zo5xOCq1J85Rpjl8xC988432t5z8lGEJIkp4FYpIdJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7RPopqTDM-xWD7ybOyVtGtvmOME4Q3G82xi7HxMvj-f8pFsAIl8MPLFzeY6lH02WoauPaxCyych-YGJBDIjC6olgu44izZsjcbeku.Zmo0gIlBb-kuLR6bsGtra6BE2ME9zop4PrBE59snM5BXxLtLih2k8dnMc.1KxV38PYZCaVtmBikXnMX6sonaCGf7yB1rdSgVe7trgp-syB1J5UMS3YFqzjzZlCRZZR9v3jDVZ15grG6OKJuYUwRXk1B29krE_&v=4&ap=14&rp=14",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2018/712/312/9871213217_560523263.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=1kp3siCsqsV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9fmoU4IIILFx265pI7E6wJlnl8cR-bnoKil8FMxIP2GPfyijgugDa5TDiyPDZXjvpPcAaT1xa63vCl24uMAE-WWbCKKeQwUFA1s9cGg9cJqPnnXJMMxGqFvo56gTh94PWcCaSZ5TA-VpL0WpHTJbRfi1Zo5xOCq1J85Rpjl8xC988432t5z8lGEJIkp4FYpIdJkAOd0YthdwBaBsJ7zcr5CAwVldPPAvIzynhipPBBFo2od34qNMICqWOpTedglTjEmo2uyYUUBSxAR6HoQqrs6HCWgk4.r6XSQ3QPWwAi6-o2fojwWF0cvO.4CwPxDANMHqVp5lHzIn8fbmoujJzMYzZXibFKw7RPopqTDM-xWD7ybOyVtGtvmOME4Q3G82xi7HxMvj-f8pFsAIl8MPLFzeY6lH02WoauPaxCyych-YGJBDIjC6olgu44izZsjcbeku.Zmo0gIlBb-kuLR6bsGtra6BE2ME9zop4PrBE59snM5BXxLtLih2k8dnMc.1KxV38PYZCaVtmBikXnMX6sonaCGf7yB1rdSgVe7trgp-syB1J5UMS3YFqzjzZlCRZZR9v3jDVZ15grG6OKJuYUwRXk1B29krE_&v=4&ap=14&rp=14&action=feedback",
+        "isP4P": true,
+        "loginId": "深圳市科代尔科技有限公司",
+        "memberId": "b2b-1821433673",
+        "memberTags": "33793,2305,3438145,3679361,1415873,3767617,3713601,205185,3628097,3673089,23488,102912,406401,504641,3706369,3763777,3839233,6272,3786881,2802049,17665,5377,39937,205441,3695873,675905,3674177,26369,46849,205057,3708289,103040,2812161,15168,33281,22912,3677889,3849601,41792,5184,3863489,2999553",
+        "offerid": "542728623597",
+        "p4P": true,
+        "planType": 10,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 1.59,
+            "cent": 159,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 13,
+        "strPriceMoney": "1.59",
+        "tP": false,
+        "title": "透明X苹果11Pro Max XR iPhone8<font color=red>手机</font><font color=red>壳</font>6S软硅胶XS保护套7Plus批发",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1045794",
+                "infoId": "539835000063",
+                "loginId": "优威图像1688",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "东莞市",
+                "factoryName": "",
+                "name": "东莞市优威图像有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "0%"
+            },
+            "id": "539835000063",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": false
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 2,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=539835000063&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=539835000063&tab=similarDesign&showStyle=shopwindow#topoffer"
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 4
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "1~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 4
+                            }
+                        },
+                        {
+                            "quantity": "100~999",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 3
+                            }
+                        },
+                        {
+                            "quantity": "≥1000",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 3
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 3
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 0,
+                "quantityBegin": 1,
+                "sortType": "30days",
+                "sortTypeUnit": "套",
+                "unit": "套"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": false,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://uv1688dg.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 5
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_14_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','14','{clickArea}'",
+        "ctr": 288,
+        "discountPrice": {
+            "id": "539835000063",
+            "price": 3.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=KWsK2cGQ.Et5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq90kF0CQoLfTArRBV.Xtb1k-nuzIKgA6.c1SNSyZYWNutBL0x9fsa5oMZyv5dgbgn6zRU57WceOuc7SKOCKo7585qvgqnO6sGcOsNgVSCkH09c21DTXTeZo3v.-cI5hyMeYSJtZrmpDxM2-MZWiw1edjsbGTsMj3wm5GWVzuSYClmJyEWeOgyHTH5EFNJTMhutf1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0SCcz2..QLUGtI2-gqWhK4yHjxoS5n8IbXX4zaE.cUmd0BuvdcCQpRS2uTx-88BtUhdHPg8M4U1ntQgEn0WBmcTvM1STebbugSgZsUCy8Jw.xgNOKhazIyOk-brAiLPYq37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPkj2vPDO63cajU7WeSShE6uLp2hgTYMzHF10.ciWhG2n&v=4&ap=15&rp=15",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2016/952/029/3526920259_4379911.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=KWsK2cGQ.Et5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq90kF0CQoLfTArRBV.Xtb1k-nuzIKgA6.c1SNSyZYWNutBL0x9fsa5oMZyv5dgbgn6zRU57WceOuc7SKOCKo7585qvgqnO6sGcOsNgVSCkH09c21DTXTeZo3v.-cI5hyMeYSJtZrmpDxM2-MZWiw1edjsbGTsMj3wm5GWVzuSYClmJyEWeOgyHTH5EFNJTMhutf1gLyR51MF6msl741xYtQdyjFeJz5QkvkYSf72xa6lCYQotqSv.Kc7nH-4xqmkXSg9ATlq7EgA9tQ.gKfu8u1Dssrdi4z6z9LG.49RcrVJMVCH-e2ofWCNm6omAp3pRHMvmnvbOeyK5AqABtxd2ltrH1HFArSqTLTsv1V6x6-NlGNMJCTc3R0SCcz2..QLUGtI2-gqWhK4yHjxoS5n8IbXX4zaE.cUmd0BuvdcCQpRS2uTx-88BtUhdHPg8M4U1ntQgEn0WBmcTvM1STebbugSgZsUCy8Jw.xgNOKhazIyOk-brAiLPYq37XgNRLu1shP.IPQv1j7aSMJr.x4Tjw7OeQlxk0f1mJs9Hk8uI6Ku0b6u9mLEANOGrXyMYVDYFDY6ulgHanlPkj2vPDO63cajU7WeSShE6uLp2hgTYMzHF10.ciWhG2n&v=4&ap=15&rp=15&action=feedback",
+        "isP4P": true,
+        "loginId": "优威图像1688",
+        "memberId": "b2b-2556584963hvsjb",
+        "memberTags": "36609,136128,80897,17665,23424,39937",
+        "offerid": "539835000063",
+        "p4P": true,
+        "planType": 9,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 3.0,
+            "cent": 300,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 14,
+        "strPriceMoney": "3.00",
+        "tP": false,
+        "title": "东莞供应打印加工<font color=red>手机</font><font color=red>壳</font>电脑平板打印彩色喷绘",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1046694",
+                "infoId": "590863593855",
+                "loginId": "baseus倍思品牌特卖店",
+                "type": "normal"
+            },
+            "brand": {
+                "chineseName": "倍思",
+                "enable": false,
+                "name": "BASEUS/倍思"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市龙岗区",
+                "factoryName": "",
+                "name": "倍思官方直营店",
+                "province": "广东",
+                "shiliType": "flagship",
+                "shopRepurchaseRate": "29.8%"
+            },
+            "id": "590863593855",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "广州",
+                "url": "http://guangzhou.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "21色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": true,
+                "fromSheZhang": false,
+                "fromShili": true,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 11,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=590863593855&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 99,
+                        "integer": 14
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "10~49",
+                            "value": {
+                                "decimals": 99,
+                                "integer": 14
+                            }
+                        },
+                        {
+                            "quantity": "≥50",
+                            "value": {
+                                "decimals": 40,
+                                "integer": 4
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 40,
+                        "integer": 4
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1152,
+                "quantityBegin": 10,
+                "sortType": "30days",
+                "sortTypeUnit": "件",
+                "unit": "件"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": true,
+                "buyerEnsure": true,
+                "deliveryHours": 48,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": false,
+                "freeAccount": false,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "http://shop1j9794t976n00.1688.com/page/creditdetail.htm#company-depth-auth",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://shop1j9794t976n00.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 1
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_15_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','15','{clickArea}'",
+        "ctr": 413,
+        "discountPrice": {
+            "id": "590863593855",
+            "price": 4.4,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=rv9GYSHeuN55JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq92p.tyqDJqryEo4QaLAhAkr01yp2KanqYX952z-34nfh2QypBrMQVB.dAxE9VMIkMheirs5Aa3K6pDgtLva9QPWBUpbb7fYowAUx6UoTMMy5T2L2KlXCmlSZKRdf.i8lBMDYIWKRqJJrUCiqspGyvf5IOLxkdogLTZ5I6AIGh.E7GxUzJBw3w3vzwDKgWrMD.36S.0rc1FyeotpUhyf14oWuFKqja3o4zHf89-lna.IWyEPB9XTNqzVf-7StycPcgOxZIJ8l-qakbc1PFFV4Z1ITNT-4E4jrstLGP5h18nnFN2A-uHHOYvKUMUMQMfgT8ztkH95674hwgN4DRywmxfMYnSMxbWoOFL3bmBQaaJJu1r5mJSXp1v3Ve0ezhiveGhX.FfVO-S9NmKnkHDGjkdjfVfxp3xkzUTjIeWhe12VrIJRv7ZgAPKNPKvuOZPJhOykMFa8JYJBRqV.DNqmgcCrvI3nas-Tqm5bsVnKe2Tw6nQG1s23Soyi7YzMKq45jVoJWslDG5kIJRfyK0qkQLK.nA-p-VN9kcKQ2BV0GM0dJjOwH7KhO3rRmgtmAWlTfyBj8i3urvyg4jSg5.Qigy4QnIncmttlXKSh6WUCiS2sFtLm.bfkgLX&v=4&ap=16&rp=16",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/324/575/10723575423_592856417.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=rv9GYSHeuN55JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq92p.tyqDJqryEo4QaLAhAkr01yp2KanqYX952z-34nfh2QypBrMQVB.dAxE9VMIkMheirs5Aa3K6pDgtLva9QPWBUpbb7fYowAUx6UoTMMy5T2L2KlXCmlSZKRdf.i8lBMDYIWKRqJJrUCiqspGyvf5IOLxkdogLTZ5I6AIGh.E7GxUzJBw3w3vzwDKgWrMD.36S.0rc1FyeotpUhyf14oWuFKqja3o4zHf89-lna.IWyEPB9XTNqzVf-7StycPcgOxZIJ8l-qakbc1PFFV4Z1ITNT-4E4jrstLGP5h18nnFN2A-uHHOYvKUMUMQMfgT8ztkH95674hwgN4DRywmxfMYnSMxbWoOFL3bmBQaaJJu1r5mJSXp1v3Ve0ezhiveGhX.FfVO-S9NmKnkHDGjkdjfVfxp3xkzUTjIeWhe12VrIJRv7ZgAPKNPKvuOZPJhOykMFa8JYJBRqV.DNqmgcCrvI3nas-Tqm5bsVnKe2Tw6nQG1s23Soyi7YzMKq45jVoJWslDG5kIJRfyK0qkQLK.nA-p-VN9kcKQ2BV0GM0dJjOwH7KhO3rRmgtmAWlTfyBj8i3urvyg4jSg5.Qigy4QnIncmttlXKSh6WUCiS2sFtLm.bfkgLX&v=4&ap=16&rp=16&action=feedback",
+        "isP4P": true,
+        "loginId": "baseus倍思品牌特卖店",
+        "memberId": "b2b-220078342662464a1f",
+        "memberTags": "3674177,3767617,3713601,3818177,3708225,46849,205185,205057,1446145,3708289,3852033,38401,39232,3706369,3763777,1801985,3839233,42113,542337,542209,3786881,17665,1445761,205441,3849601,3863489,3790337",
+        "offerid": "590863593855",
+        "p4P": true,
+        "planType": 9,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 4.4,
+            "cent": 440,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 15,
+        "strPriceMoney": "4.40",
+        "tP": false,
+        "title": "Baseus倍思适用苹果iPhonexs创意<font color=red>手机</font><font color=red>壳</font>套卡通小熊<font color=red>手机</font><font color=red>壳</font>现货批发",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "597757893799",
+                "loginId": "深圳卡士盾科技有限公司",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "DUX,DUCIS"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市龙岗区",
+                "factoryName": "",
+                "name": "深圳卡士盾科技有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "30.7%"
+            },
+            "id": "597757893799",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "3色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": true,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 2,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=597757893799&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 15
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "2~299",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 15
+                            }
+                        },
+                        {
+                            "quantity": "300~999",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 14
+                            }
+                        },
+                        {
+                            "quantity": "≥1000",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 13
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 13
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 3,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": false,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://duxducis.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 3
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_16_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','16','{clickArea}'",
+        "ctr": 342,
+        "discountPrice": {
+            "id": "597757893799",
+            "price": 13.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=d44bZPXWjdV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9YFeOPc.VGUPGiD24JnKBHY2b5k2ysryy8M88WfbLTljPWUhILep1RP4C7M6JCYKUdbx.oo9dwqJXyBGcdpzG8LKHIlpjygJxH4K2-Uc3-ENZiRUW31dvaL0.DWMmN2JSUVoXcrTolTKRYcziylQWhjwaZUiYkGCm69mxAztvYMg8qQUxEKoIsbIsopsTmE16C9DBH5dzVoEc6Okk5f0e7Z6fwnbQbxL9SRPPQvzm4U8QFtBQfD1FjHb1l7xJfb.Q9Ev51jOpzjtKSBdW8aWBzeAtcFjIP73JdMNMW1WEn67lvMUMaiMls-U0Kuo6Qt.LD6CPHQZrVSPv45aIDXFyuca.smtCiE-3K9N8cUmRIlnbW.hWRU-Rxsls3aqD5DU1tAPek9aFUBSXip6W1z9jgkLy4thyDKykxJjfD58u26QGSqC1XoC508HmjgvaTcubQZiQ1YkOuIFBam3W9ygV0o-jIHusu.odh69CMwQS.emb6Kwno3sLNoDLm4llXO-0meEiHlUFlmGOy9Gdx8kZelLl445JPjvhquFmjI4mlIG.fzYGPge.djAkPXQ0LPGXvzb.-9Qext2EP7Xmlhb6dcu0Z4X5MYqvFzOHd2wocs1LGl1bp.0fW&v=4&ap=17&rp=17",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/899/019/12378910998_1782420125.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=d44bZPXWjdV5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq9YFeOPc.VGUPGiD24JnKBHY2b5k2ysryy8M88WfbLTljPWUhILep1RP4C7M6JCYKUdbx.oo9dwqJXyBGcdpzG8LKHIlpjygJxH4K2-Uc3-ENZiRUW31dvaL0.DWMmN2JSUVoXcrTolTKRYcziylQWhjwaZUiYkGCm69mxAztvYMg8qQUxEKoIsbIsopsTmE16C9DBH5dzVoEc6Okk5f0e7Z6fwnbQbxL9SRPPQvzm4U8QFtBQfD1FjHb1l7xJfb.Q9Ev51jOpzjtKSBdW8aWBzeAtcFjIP73JdMNMW1WEn67lvMUMaiMls-U0Kuo6Qt.LD6CPHQZrVSPv45aIDXFyuca.smtCiE-3K9N8cUmRIlnbW.hWRU-Rxsls3aqD5DU1tAPek9aFUBSXip6W1z9jgkLy4thyDKykxJjfD58u26QGSqC1XoC508HmjgvaTcubQZiQ1YkOuIFBam3W9ygV0o-jIHusu.odh69CMwQS.emb6Kwno3sLNoDLm4llXO-0meEiHlUFlmGOy9Gdx8kZelLl445JPjvhquFmjI4mlIG.fzYGPge.djAkPXQ0LPGXvzb.-9Qext2EP7Xmlhb6dcu0Z4X5MYqvFzOHd2wocs1LGl1bp.0fW&v=4&ap=17&rp=17&action=feedback",
+        "isP4P": true,
+        "loginId": "深圳卡士盾科技有限公司",
+        "memberId": "b2b-346758311704a8b",
+        "memberTags": "3438145,3679361,3674177,3767617,3708289,504641,3763777,3839233,3786881,3677889,3849601,676161,2999553,22784",
+        "offerid": "597757893799",
+        "p4P": true,
+        "planType": 10,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 13.0,
+            "cent": 1300,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 16,
+        "strPriceMoney": "13.00",
+        "tP": false,
+        "title": "DUX DUCIS 苹果<font color=red>手机</font><font color=red>壳</font> 纯色",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "601901254888",
+                "loginId": "3pmcase",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "3PM"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "深圳市宝安区",
+                "factoryName": "",
+                "name": "深圳三羊塑胶五金有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "46.1%"
+            },
+            "id": "601901254888",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "5色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 0,
+                    "enable": false
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 50,
+                        "integer": 5
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "50~299",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 5
+                            }
+                        },
+                        {
+                            "quantity": "300~599",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 5
+                            }
+                        },
+                        {
+                            "quantity": "≥600",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 4
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 50,
+                        "integer": 4
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 0,
+                "quantityBegin": 50,
+                "sortType": "30days",
+                "sortTypeUnit": "pcs",
+                "unit": "pcs"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": false,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://3pmcase.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 3
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_17_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','17','{clickArea}'",
+        "ctr": 300,
+        "discountPrice": {
+            "id": "601901254888",
+            "price": 4.5,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=GF1BQ8y-uP95JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.tMyvRL1TJSmgEuJ0ElnFAacqtM90ddHpLCXp8lcu6ZTPWUhILep1R51W.9bjMJEusF2cvo-Ltsf1Onfln9q5g-yF-zsrMdYxm.Z0-1.p7zpSJjtWGx7InXCWFuWF64kw3n5WvTL2G-0Sh78KM8E9caAjmBMYCXEPW.kBZ22.pMygnvLW6mteRHIuU84KmiK3AlKKvfjsulde5vPkJtlkf4AfmSvbq3vA4DnkFIxWwahov721OWBoXx4zYjcVRpcjuVQbfOi-WKGtuK41rfL7ofDquj.oWjky06yz1XP4bI-TNOFhk7A0NfZRfzrYenOIr6vRbMXyR-8F.pHNkV6WghKEOnhg-mQxidMtimrxYKAFIaox9mflDgfO9lz4yR7eVnvNyxlsZ0xn8mYPwkYq6c9bGHffln3HCp371Atxmg2MP2j7hOUKqpik0UZOrXPXnDlggS7st97ZdgCHrNF965Ik10zCQrA7NTQU.a60IBQ0452SSUGfaaCVrJQxuZCCUX8itKpECyv5wPqflTfZHCkNgVdBjNHSYzsB-yoTt60ZoLZgFpU38gY.It7q78oNBRMEv3K.nl4KcQrJ9nIYMMc2sZJvS3eFIqevGGWsTOQ__&v=4&ap=18&rp=18",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/152/193/12086391251_2027969731.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=GF1BQ8y-uP95JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq.tMyvRL1TJSmgEuJ0ElnFAacqtM90ddHpLCXp8lcu6ZTPWUhILep1R51W.9bjMJEusF2cvo-Ltsf1Onfln9q5g-yF-zsrMdYxm.Z0-1.p7zpSJjtWGx7InXCWFuWF64kw3n5WvTL2G-0Sh78KM8E9caAjmBMYCXEPW.kBZ22.pMygnvLW6mteRHIuU84KmiK3AlKKvfjsulde5vPkJtlkf4AfmSvbq3vA4DnkFIxWwahov721OWBoXx4zYjcVRpcjuVQbfOi-WKGtuK41rfL7ofDquj.oWjky06yz1XP4bI-TNOFhk7A0NfZRfzrYenOIr6vRbMXyR-8F.pHNkV6WghKEOnhg-mQxidMtimrxYKAFIaox9mflDgfO9lz4yR7eVnvNyxlsZ0xn8mYPwkYq6c9bGHffln3HCp371Atxmg2MP2j7hOUKqpik0UZOrXPXnDlggS7st97ZdgCHrNF965Ik10zCQrA7NTQU.a60IBQ0452SSUGfaaCVrJQxuZCCUX8itKpECyv5wPqflTfZHCkNgVdBjNHSYzsB-yoTt60ZoLZgFpU38gY.It7q78oNBRMEv3K.nl4KcQrJ9nIYMMc2sZJvS3eFIqevGGWsTOQ__&v=4&ap=18&rp=18&action=feedback",
+        "isP4P": true,
+        "loginId": "3pmcase",
+        "memberId": "b2b-324329830441306",
+        "memberTags": "3438145,675905,3679361,205185,205057,2247553,205313,3677889,102912,504641,22784,2999553",
+        "offerid": "601901254888",
+        "p4P": true,
+        "planType": -1,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 4.5,
+            "cent": 450,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 17,
+        "strPriceMoney": "4.50",
+        "tP": false,
+        "title": "元1-<font color=red>手机</font><font color=red>壳</font>适用于华为HUAWEI Mate30/Pro全包保护套气囊防摔软<font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1042207",
+                "infoId": "599080682639",
+                "loginId": "卡妮迩数码通讯皮套厂",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "卡妮迩"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "佛山市南海区",
+                "factoryName": "",
+                "name": "广州卡妮迩数码通讯产品有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "34.7%"
+            },
+            "id": "599080682639",
+            "industrialBelt": {
+                "enable": false
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "4色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 2,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=599080682639&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 11
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "10~99",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 11
+                            }
+                        },
+                        {
+                            "quantity": "100~499",
+                            "value": {
+                                "decimals": 50,
+                                "integer": 9
+                            }
+                        },
+                        {
+                            "quantity": "≥500",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 7
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 7
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 1789,
+                "quantityBegin": 10,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": false,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 15,
+                "tpCreditUrl": "http://shop177662qe6w319.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 1
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_18_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','18','{clickArea}'",
+        "ctr": 274,
+        "discountPrice": {
+            "id": "599080682639",
+            "price": 7.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=wVqVF.sbqGd5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq-E4G3uU0026cd2ILhmx8ForumXSbIh3la8b2cOwAtnOB2QypBrMQVBZI4u-gS2pxqJD.EAY5hlicS0ERPKeTTGffXsP3dVgkuP.0SJGndIv74gAGHuB9JEadM7xqArWrKziYh0Kqosw6GlAYyj9qmjgjsw8.qJvvBMrrj3l2gCE8UbPPFOr-vrcnkx2xCFac2vrj.xv04HQU2FeAYXmCpoCpXJrGk-35PsUZe9OX4t68VJ1gbSH7a2HGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01FdugMHQLfDQm0YvUdfdV-ZCR.pwMaNTDlnqm9taqSPwwXeABBpD1EmRmRMpKabP43zJtTCXLeTmsofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9.LkAeeSgLPTTd-fXtlwFLJz2cEJurOUg6iFP0sZANqB&v=4&ap=19&rp=19",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/173/928/11641829371_2027505178.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=wVqVF.sbqGd5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq-E4G3uU0026cd2ILhmx8ForumXSbIh3la8b2cOwAtnOB2QypBrMQVBZI4u-gS2pxqJD.EAY5hlicS0ERPKeTTGffXsP3dVgkuP.0SJGndIv74gAGHuB9JEadM7xqArWrKziYh0Kqosw6GlAYyj9qmjgjsw8.qJvvBMrrj3l2gCE8UbPPFOr-vrcnkx2xCFac2vrj.xv04HQU2FeAYXmCpoCpXJrGk-35PsUZe9OX4t68VJ1gbSH7a2HGTnpIlCwWNzR3Ix8MGJcrdxWclRLo9OxZmbOe0tas8Ck5xGyDo3eLmx6MwFVdSsOTs0kpO2edG.agHfJ8ohtLoZUeo5byY0ceL6IsbMx49d-p2YGenXUidoojmYFnI5XxS6ukwPgSboH-k3l-EKMt-dR8YCmb98UsThTG7U01FdugMHQLfDQm0YvUdfdV-ZCR.pwMaNTDlnqm9taqSPwwXeABBpD1EmRmRMpKabP43zJtTCXLeTmsofY-T-OHdGCgVOxLpO57bUMwK3Tu6ZQZcn5.LTEQraOPwgRHXaKUCZBXByPmQDFHJJD90w8z8ihqMrKsYGNqHwrKe-IwiIRDTt4mRsahPvvvLYlLgru.PL8vIv.9s.9.LkAeeSgLPTTd-fXtlwFLJz2cEJurOUg6iFP0sZANqB&v=4&ap=19&rp=19&action=feedback",
+        "isP4P": true,
+        "loginId": "卡妮迩数码通讯皮套厂",
+        "memberId": "b2b-22014704442037b57e",
+        "memberTags": "3839233,3674177,3767617,136128,3786881,3849601",
+        "offerid": "599080682639",
+        "p4P": true,
+        "planType": -1,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 7.0,
+            "cent": 700,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 18,
+        "strPriceMoney": "7.00",
+        "tP": false,
+        "title": "适用三星NOTE10华为<font color=red>手机</font>皮套iPhone11肤感<font color=red>手机</font><font color=red>壳</font>迷彩带保护套",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    },
+    {
+        "attr": {
+            "aliTalk": {
+                "categoryId": "1046694",
+                "infoId": "607219949113",
+                "loginId": "金橙电子",
+                "type": "normal"
+            },
+            "brand": {
+                "enable": false,
+                "name": "美尚橙市"
+            },
+            "company": {
+                "bizTypeName": "生产加工",
+                "city": "东莞市",
+                "factoryName": "",
+                "name": "东莞市金橙电子科技有限公司",
+                "province": "广东",
+                "shiliType": "",
+                "shopRepurchaseRate": "23.8%"
+            },
+            "id": "607219949113",
+            "industrialBelt": {
+                "enable": true,
+                "shortName": "虎门",
+                "url": "http://humen.1688.com/openservice/p4p114OfferResultViewService?from=searchweb2.0"
+            },
+            "information": {},
+            "marketOfferTag": {
+                "colorCount": {
+                    "enable": true,
+                    "text": "9色"
+                },
+                "newUserFirstFreePost": {
+                    "enable": false
+                },
+                "newUserSpOffer": {
+                    "enable": false
+                },
+                "sizeCount": {
+                    "enable": false
+                }
+            },
+            "offerSource": {
+                "fromBrandMall": false,
+                "fromCaigou": false,
+                "fromDaixiao": false,
+                "fromFreeSample": false,
+                "fromHuopin": false,
+                "fromSheZhang": false,
+                "fromShili": false,
+                "fromTaoFactory": false,
+                "fromWholesaleSmall": false,
+                "locked": false,
+                "showBrandMallHoverInfo": false
+            },
+            "sameAndSimilarDesign": {
+                "sameDesign": {
+                    "count": 4,
+                    "enable": true,
+                    "url": "http://s.1688.com/collaboration/collaboration_search.htm?fromOfferId=607219949113&tab=sameDesign&showStyle=img&uniqfield=userid&sortType=booked&descendOrder=true&filt=y&autoSimilarTab=true#topoffer"
+                },
+                "sameShop": {
+                    "enable": false
+                },
+                "similarDesign": {
+                    "enable": false
+                }
+            },
+            "tradePrice": {
+                "freightPrice": {
+                    "enable": false,
+                    "free": false,
+                    "value": {
+                        "decimals": 0,
+                        "integer": 0
+                    }
+                },
+                "offerPrice": {
+                    "discount": false,
+                    "enable": true,
+                    "locked": false,
+                    "originalValue": {
+                        "decimals": 0,
+                        "integer": 12
+                    },
+                    "quantityPrices": [
+                        {
+                            "quantity": "≥2",
+                            "value": {
+                                "decimals": 0,
+                                "integer": 12
+                            }
+                        }
+                    ],
+                    "value": {
+                        "decimals": 0,
+                        "integer": 12
+                    }
+                }
+            },
+            "tradeQuantity": {
+                "buyerCount": 0,
+                "number": 7250,
+                "quantityBegin": 2,
+                "sortType": "30days",
+                "sortTypeUnit": "个",
+                "unit": "个"
+            },
+            "tradeService": {
+                "brokenPackageReissue": false,
+                "businessInspection": false,
+                "buyerEnsure": true,
+                "deliveryHours": 0,
+                "deliveryTimeEnsure": true,
+                "factoryInspection": false,
+                "freeAccount": true,
+                "genuineSecurity": false,
+                "goldSupplier": false,
+                "inspectionCreditUrl": "",
+                "materialQualityEnsure": false,
+                "onlineTrade": true,
+                "regionAuthentication": false,
+                "replaceEnsureDays": 0,
+                "tpCreditUrl": "http://shop8v3s811014698.1688.com/page/creditdetail.htm",
+                "tpMember": true,
+                "tpYear": 2
+            }
+        },
+        "categoryId": 0,
+        "clickurl": "'p4psale_search_window_1_19_j_j20_{clickArea}__0_%CA%D6%BB%FA%BF%C7','0','%CA%D6%BB%FA%BF%C7','819336_1008','19','{clickArea}'",
+        "ctr": 327,
+        "discountPrice": {
+            "id": "607219949113",
+            "price": 12.0,
+            "zkCat": "",
+            "zkPrice": 0.0,
+            "zkRate": 0,
+            "zkSource": 0,
+            "zkTime": 0
+        },
+        "eurl": "https://dj.1688.com/ci_bb?a=820015077&e=6Psq8kNXIXp5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq8iRc7vjk1q60DdkWdwGLdrhxOXAQFSCK57m2CgWIdqOzPWUhILep1R2RCw94HwTsu-U3kgt1OHSmLDszPUttuZznu70utmdKbYBInhjhmFNexkLTpJCW7mTIrZjkXMSt0oc3HudA4j3Y7Gxk7DI98JBzdGZHWx8kb2rnr5AgXDK5rJCm0g7I.lYkivW3EPJtOprJe-NcWLUHcoxXic-UJL5GEn-9sWupQmEKLakr.ynO5x.uMappF0oPQE5auxIAPbUP4Cn7vLtQ7LK3YuM-s.Sxv-PUXK1STFQh.ntqH1gjZuqJgKd6URzL5p72znsiuQKgAbcXdpbax9RxQK0qky07L9VesevjZRjTCQk3N0dBZDqgNmJSfvM7MmKPGIi1W1YcswKBxjs12FyuOufQz0dAbr3XAkKUXOJnBaMfeNKXTpabi38TZq7UIBJ9FgZnE7zNUk3m27oOdEVZPkl4ywzXIQ3iYZ60lZ4Wb0ky-vRHOing-sETn2yczkFfEu0uKHaTx2cxz.UrFXfw9hkJpW2YGKRecxfqyidoIZ.vIHWt1KBV7u2uCn6zIHUnlQxLdgWrOPNmUJFjN8Fyn0mXaZN-cTlfQaMwSbTyUUBaQz4g__&v=4&ap=20&rp=20",
+        "imgUrl": "https://cbu01.alicdn.com/img/ibank/2019/404/143/12597341404_658958430.220x220.jpg",
+        "impressionEurl": "https://dj.1688.com/ci_bb?a=820015077&e=6Psq8kNXIXp5JU0rpRUEQ7D5E6QhyLAsWh-WNjAMsJ2sDu8exGGJI2tmczKf1Gs.yAIcFKqdkq8iRc7vjk1q60DdkWdwGLdrhxOXAQFSCK57m2CgWIdqOzPWUhILep1R2RCw94HwTsu-U3kgt1OHSmLDszPUttuZznu70utmdKbYBInhjhmFNexkLTpJCW7mTIrZjkXMSt0oc3HudA4j3Y7Gxk7DI98JBzdGZHWx8kb2rnr5AgXDK5rJCm0g7I.lYkivW3EPJtOprJe-NcWLUHcoxXic-UJL5GEn-9sWupQmEKLakr.ynO5x.uMappF0oPQE5auxIAPbUP4Cn7vLtQ7LK3YuM-s.Sxv-PUXK1STFQh.ntqH1gjZuqJgKd6URzL5p72znsiuQKgAbcXdpbax9RxQK0qky07L9VesevjZRjTCQk3N0dBZDqgNmJSfvM7MmKPGIi1W1YcswKBxjs12FyuOufQz0dAbr3XAkKUXOJnBaMfeNKXTpabi38TZq7UIBJ9FgZnE7zNUk3m27oOdEVZPkl4ywzXIQ3iYZ60lZ4Wb0ky-vRHOing-sETn2yczkFfEu0uKHaTx2cxz.UrFXfw9hkJpW2YGKRecxfqyidoIZ.vIHWt1KBV7u2uCn6zIHUnlQxLdgWrOPNmUJFjN8Fyn0mXaZN-cTlfQaMwSbTyUUBaQz4g__&v=4&ap=20&rp=20&action=feedback",
+        "isP4P": true,
+        "loginId": "金橙电子",
+        "memberId": "b2b-399131951412f0c",
+        "memberTags": "1415873,3767617,3818177,3708225,3628097,3673089,3807937,504641,98688,3793345,3839233,3763777,546049,3767041,3786881,24704,17665,39937,3695873,3790337,675905,3674177,2247553,3708289,38401,3828481,80897,3849601,41792,22784",
+        "offerid": "607219949113",
+        "p4P": true,
+        "planType": 10,
+        "price": 0.0,
+        "priceMoney": {
+            "amount": 12.0,
+            "cent": 1200,
+            "centFactor": 100,
+            "currency": "CNY"
+        },
+        "privateInfo": 0,
+        "quantityBegin": 0,
+        "salesVolume": 0,
+        "showCust": false,
+        "sortIndex": 19,
+        "strPriceMoney": "12.00",
+        "tP": false,
+        "title": "适用iPhone11液态苹果<font color=red>手机</font><font color=red>壳</font>78Plus来图定制<font color=red>手机</font><font color=red>壳</font>",
+        "tpServiceYear": 0,
+        "useAlipay": false
+    }
+]
